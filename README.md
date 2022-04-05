@@ -6,5 +6,5 @@ Ce repo rend publics et facilement accessibles tous les compte-rendus d'assembl�
 
 # Tenue d'AG
 On peut imaginer que ce repo aide à la tenue des AG à venir :
- - ajouter des issues GitHub pour tracer les points à aborder
+ - édition collaborative du PV de l'AG à venir pour constituer un ordre du jour au fil de l'eau
  - ajouter un fichier TEMPLATE.md pour avoir un squelette de compte-rendu d'AG prêt à l'emploi
